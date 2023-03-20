@@ -1,0 +1,34 @@
+body {
+    background-color: yellow;
+}
+
+#first-heading {
+    color: red;
+    text-align: center;
+}
+
+.navbar
+{
+    background-color: brown;
+    color: aqua;
+}
+
+.article-black-block {
+    background-color: black;
+}
+
+.contact-text {
+    text-align: center;
+}
+
+.hided-list-style {
+    list-style-type: none;
+}
+
+.article-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
