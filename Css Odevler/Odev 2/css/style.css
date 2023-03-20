@@ -1,0 +1,57 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+}
+
+.header {
+    overflow: hidden; 
+    text-align:center
+}
+
+.header img{
+    height: 100%;
+    width: auto;
+}
+
+.content {
+    overflow: hidden;
+    text-align: center; 
+}
+
+.search-group {
+    padding: 0 0 25px 0;
+    margin: 5px 0;
+}
+
+.link-group {
+    padding: 10px 230px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.box {
+    padding:0 100px;
+    margin:0 5px;
+    float: left;
+}
+
+
+.clear {
+    clear: both;
+}
+
+.bg-gray
+{
+    background-color: rgb(182, 182, 182);
+}
+
+.bg-blue
+{
+    background-color: aquamarine;
+}
+
+
