@@ -1,0 +1,33 @@
+body {
+    background-color: #E9ECEF;
+}
+.welcome-product-list {
+    text-align: center;
+    list-style: none;
+    margin-left: -40px;
+}
+
+button.services-button {
+    font-size: 18px;
+    padding: 15px;
+    border: 2px solid #FFF;
+    border-radius: 3px;
+    display: block;
+    margin: 50px auto;
+    transition: .2s ease-in-out 0s;
+}
+
+button.services-button:hover {
+    cursor: pointer;
+    transform: scale(1.25);
+}
+
+.product-img {
+    height: 300px;
+    width: 300px;
+
+}
+
+.cost {
+    background-color: gray;
+}
