@@ -67,12 +67,3 @@ function CheckInput (task) {
         } 
     }
 }
-
-function test() {
-    ResetTaskList();
-    for (let index = 0; index < storedElements.length; index++) {
-                
-        console.log(index + storedElements[index])
-    }
-    console.log(storedElements.length)
-}
