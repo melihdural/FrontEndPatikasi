@@ -1,9 +1,12 @@
 import './App.css';
+import Hooks from "./components/Hooks";
+import {useState} from "react";
+import Counter from "./components/Counter";
+// import { useState } from "react";
 // import Header  from "./components/Header"
 // import User from "./components/User"
 // import Counter from "./components/Counter"
-import Input from "./components/InputExample"
-// import { useState } from "react";
+// import Input from "./components/InputExample"
 
 
 /* --- JSX - Basic Rules --- */
@@ -156,10 +159,32 @@ import Input from "./components/InputExample"
 // }
 
 /* --- User Input --- */
-function App () {
+// function App () {
+//     return (
+//         <>
+//             <Input />
+//         </>
+//     );
+// }
+
+/* --- Hook Samples --- */
+// function App() {
+//     const [isVisible, setIsVisible] = useState(true);
+//     return (
+//         <>
+//             <Hooks />
+//             <button onClick={() => setIsVisible(() => !isVisible)}>Toggle Counter</button>
+//         </>
+//     )
+// }
+
+function App() {
+    const [isVisible, setIsVisible] = useState(true)
     return (
         <>
-            <Input />
+            {isVisible && <Counter/>}
+
+            <button onClick={() => setIsVisible(!isVisible)}>Toggle Counter!</button>
         </>
     );
 }
