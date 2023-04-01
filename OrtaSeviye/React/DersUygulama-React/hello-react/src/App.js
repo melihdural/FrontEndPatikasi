@@ -178,13 +178,22 @@ import Counter from "./components/Counter";
 //     )
 // }
 
+/* --- Lifecycle - Clear Interval - Toggle Button --- */
+// function App() {
+//     const [isVisible, setIsVisible] = useState(true)
+//     return (
+//         <>
+//             {isVisible && <Counter/>}
+//
+//             <button onClick={() => setIsVisible(!isVisible)}>Toggle Counter!</button>
+//         </>
+//     );
+// }
+
 function App() {
-    const [isVisible, setIsVisible] = useState(true)
     return (
         <>
-            {isVisible && <Counter/>}
 
-            <button onClick={() => setIsVisible(!isVisible)}>Toggle Counter!</button>
         </>
     );
 }

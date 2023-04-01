@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a4ba8-b18d-4947-ac95-e321a8d8142d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hello-react/src/components/Hooks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-react/src/components/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/components/Counter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/bys-projects/ULAS-ELIT",
+    "last_opened_file_path": "C:/Users/Melih/Documents/GitHub/FrontEndPatikasi/OrtaSeviye/React/Contacts-App",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,11 +56,55 @@
       <option name="presentableId" value="Default" />
       <updated>1680245089497</updated>
       <workItem from="1680245090304" duration="674000" />
-      <workItem from="1680246837399" duration="3466000" />
+      <workItem from="1680246837399" duration="3995000" />
     </task>
+    <task id="LOCAL-00001" summary="Lifecyle class section completed">
+      <created>1680250702529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680250702529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lifecyle class section completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lifecyle class section completed" />
   </component>
 </project>
