@@ -2,7 +2,7 @@ import './App.css';
 // import Hooks from "./components/Hooks";
 // import {useState} from "react";
 // import Counter from "./components/Counter";
-import Fetch from "./components/Fetch";
+// import Fetch from "./components/Fetch";
 // import { useState } from "react";
 // import Header  from "./components/Header"
 // import User from "./components/User"
@@ -192,12 +192,20 @@ import Fetch from "./components/Fetch";
 // }
 
 /* --- Native Fetch --- */
-function App() {
-    return (
-        <div>
-           <Fetch />
-        </div>
-    );
-}
+// function App() {
+//     return (
+//         <div>
+//            <Fetch />
+//         </div>
+//     );
+// }
 
+
+function App() {
+    return(
+        <div>
+            
+        </div>
+    )
+}
 export default App;
