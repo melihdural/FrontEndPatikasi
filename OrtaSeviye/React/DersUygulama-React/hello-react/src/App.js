@@ -1,7 +1,8 @@
 import './App.css';
-import Hooks from "./components/Hooks";
-import {useState} from "react";
-import Counter from "./components/Counter";
+// import Hooks from "./components/Hooks";
+// import {useState} from "react";
+// import Counter from "./components/Counter";
+import Fetch from "./components/Fetch";
 // import { useState } from "react";
 // import Header  from "./components/Header"
 // import User from "./components/User"
@@ -190,11 +191,12 @@ import Counter from "./components/Counter";
 //     );
 // }
 
+/* --- Native Fetch --- */
 function App() {
     return (
-        <>
-
-        </>
+        <div>
+           <Fetch />
+        </div>
     );
 }
 
