@@ -25,7 +25,7 @@ function Todos() {
     }
 
     return(
-      <div className={"container"}>
+      <div className={"todoapp"}>
           <Header/>
           <Form addTodo={addTodo}/>
           <List

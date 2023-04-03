@@ -24,6 +24,7 @@ function Form({addTodo, todos}) {
                 <label>
                     <input
                         name={"task"}
+                        className={"new-todo"}
                         placeholder={"What needs to be done?"}
                         value={form.task}
                         onChange={onChangeInput}
