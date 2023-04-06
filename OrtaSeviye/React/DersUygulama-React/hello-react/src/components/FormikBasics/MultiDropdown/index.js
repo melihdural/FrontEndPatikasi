@@ -1,0 +1,43 @@
+import React from 'react';
+import Select from "react-select";
+import {MultiValue} from "react-select";
+
+const colourOptions = [
+    { value: 'ocean', label: 'Ocean', color: '#00B8D9', isFixed: true },
+    { value: 'blue', label: 'Blue', color: '#0052CC', isDisabled: true },
+    { value: 'purple', label: 'Purple', color: '#5243AA' },
+    { value: 'red', label: 'Red', color: '#FF5630', isFixed: true },
+    { value: 'orange', label: 'Orange', color: '#FF8B00' },
+    { value: 'yellow', label: 'Yellow', color: '#FFC400' },
+    { value: 'green', label: 'Green', color: '#36B37E' },
+    { value: 'forest', label: 'Forest', color: '#00875A' },
+    { value: 'slate', label: 'Slate', color: '#253858' },
+    { value: 'silver', label: 'Silver', color: '#666666' },
+]
+
+const _handleChange = (options: MultiValue<options>)  => {
+    console.log(options)
+}
+
+function onSubmit() {
+
+}
+
+function MultiDropdown() {
+    return (
+        <form>
+            <Select
+                closeMenuOnSelect={false}
+                defaultValue={[colourOptions[4], colourOptions[5]]}
+                isMulti
+                options={colourOptions}
+                onChange={_handleChange}
+            >
+            </Select>
+
+            <button type="submit">Submit</button>
+        </form>
+    );
+}
+
+export default MultiDropdown

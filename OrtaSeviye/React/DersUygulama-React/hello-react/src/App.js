@@ -1,5 +1,5 @@
 import './App.css';
-import ReactRouterDom from "./components/ReactRouterDom";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 // import Hooks from "./components/Hooks";
@@ -11,6 +11,8 @@ import ReactRouterDom from "./components/ReactRouterDom";
 // import User from "./components/User"
 // import Counter from "./components/Counter"
 // import Input from "./components/InputExample"
+// import ReactRouterDom from "./components/ReactRouterDom";
+import FormikBasics from "./components/FormikBasics";
 
 
 /* --- JSX - Basic Rules --- */
@@ -171,7 +173,7 @@ import ReactRouterDom from "./components/ReactRouterDom";
 //     );
 // }
 
-/* --- Hook Samples --- */
+/* --- Hook FormikSamples --- */
 // function App() {
 //     const [isVisible, setIsVisible] = useState(true);
 //     return (
@@ -212,11 +214,21 @@ import ReactRouterDom from "./components/ReactRouterDom";
 //     )
 // }
 
+/* --- FormikBasics --- */
+// function App() {
+//     return(
+//       <div>
+//           <FormikBasics />
+//       </div>
+//     );
+// }
+
+
 function App() {
     return(
-      <div>
-
-      </div>
-    );
+        <div>
+            
+        </div>
+    )
 }
 export default App;
