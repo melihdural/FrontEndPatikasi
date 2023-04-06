@@ -13,6 +13,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import Input from "./components/InputExample"
 // import ReactRouterDom from "./components/ReactRouterDom";
 import FormikBasics from "./components/FormikBasics";
+import Memoization from "./components/Memoization";
 
 
 /* --- JSX - Basic Rules --- */
@@ -223,11 +224,19 @@ import FormikBasics from "./components/FormikBasics";
 //     );
 // }
 
+/* --- Memoization --- */
+// function App() {
+//     return(
+//         <div>
+//             <Memoization />
+//         </div>
+//     )
+// }
 
 function App() {
     return(
         <div>
-            
+
         </div>
     )
 }
