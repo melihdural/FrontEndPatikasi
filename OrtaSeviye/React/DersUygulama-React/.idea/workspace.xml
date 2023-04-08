@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a4ba8-b18d-4947-ac95-e321a8d8142d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hello-react/src/components/Memoization/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/ContextSample/Container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/ContextSample/components/ButtonThemeHandler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/ContextSample/components/ContextHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/ContextSample/components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/ContextSample/context/ThemeContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/ContextSample/context/UserContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/ContextSample/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello-react/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +106,9 @@
       <workItem from="1680767320065" duration="234000" />
       <workItem from="1680767567897" duration="7908000" />
       <workItem from="1680811287138" duration="523000" />
+      <workItem from="1680816128695" duration="3236000" />
+      <workItem from="1680848599141" duration="1614000" />
+      <workItem from="1680975441372" duration="15205000" />
     </task>
     <task id="LOCAL-00001" summary="Lifecyle class section completed">
       <created>1680250702529</created>

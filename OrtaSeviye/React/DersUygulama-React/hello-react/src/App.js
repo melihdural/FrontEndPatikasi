@@ -1,5 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'font-awesome/css/font-awesome.min.css';
 
 
 // import Hooks from "./components/Hooks";
@@ -14,6 +15,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // import ReactRouterDom from "./components/ReactRouterDom";
 import FormikBasics from "./components/FormikBasics";
 import Memoization from "./components/Memoization";
+import ContextSample from "./components/ContextSample";
 
 
 /* --- JSX - Basic Rules --- */
@@ -233,10 +235,11 @@ import Memoization from "./components/Memoization";
 //     )
 // }
 
+/* --- Context --- */
 function App() {
     return(
         <div>
-
+            <ContextSample />
         </div>
     )
 }
