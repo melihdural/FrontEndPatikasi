@@ -236,11 +236,20 @@ import ContextSample from "./components/ContextSample";
 // }
 
 /* --- Context --- */
+// function App() {
+//     return(
+//         <div>
+//             <ContextSample />
+//         </div>
+//     )
+// }
+
+/* --- React Intl --- */
 function App() {
     return(
-        <div>
-            <ContextSample />
+        <div className={"App"}>
+
         </div>
-    )
+    );
 }
 export default App;
