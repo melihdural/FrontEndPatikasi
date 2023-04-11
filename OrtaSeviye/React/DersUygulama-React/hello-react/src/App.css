@@ -1,5 +1,8 @@
 .app {
-  height: 100vh;
+  display: flex;
+  justify-content: center;
+  margin: 10vh auto;
+  text-align: center;
 }
 
 .app.dark {

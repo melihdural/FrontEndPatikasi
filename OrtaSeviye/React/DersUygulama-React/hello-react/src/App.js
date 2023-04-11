@@ -18,6 +18,7 @@ import Memoization from "./components/Memoization";
 import ContextSample from "./components/ContextSample";
 import Counter from "./components/Counter";
 import ReactIntl from "./components/ReactIntl";
+import Todo from "./components/Todo";
 
 
 /* --- JSX - Basic Rules --- */
@@ -258,8 +259,9 @@ import ReactIntl from "./components/ReactIntl";
 /* --- Unit Tests --- */
 function App() {
     return(
-        <div className={"App"}>
-            <Counter />
+        <div className={"app"}>
+            {/*<Counter />*/}
+            <Todo />
         </div>
     );
 }
