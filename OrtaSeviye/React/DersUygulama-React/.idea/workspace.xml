@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a4ba8-b18d-4947-ac95-e321a8d8142d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/Counter/Counter.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/Counter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit-tests/src/Components/Counter/Counter.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../unit-tests/src/Components/Counter/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react/src/components/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/components/Counter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,23 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/melih.dural/Documents/personalPortfolio/FrontEndPatikasi/OrtaSeviye/React/DersUygulama-React&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/melih.dural/Documents/personalPortfolio/FrontEndPatikasi/OrtaSeviye/React/DersUygulama-React",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "C:/Users/melih.dural/Documents/personalPortfolio/FrontEndPatikasi/OrtaSeviye/React/DersUygulama-React/hello-react/node_modules/react-scripts",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2023.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -61,7 +67,19 @@
       <recent name="C:\Users\melih.dural\Documents\personalPortfolio\FrontEndPatikasi\OrtaSeviye\React\DersUygulama-React\hello-react\src\components\FormikBasics\FormValidations\components\Signup" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.Counter-Tests">
+    <configuration name="Counter-Tests" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/hello-react/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$/hello-react" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/hello-react/src/components/Counter.test.js" />
+      <test-names>
+        <test-name value="Counter-Tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/hello-react/package.json" />
       <command value="start" />
@@ -69,6 +87,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Counter-Tests" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -97,6 +120,7 @@
       <workItem from="1680975441372" duration="15205000" />
       <workItem from="1680999166493" duration="242000" />
       <workItem from="1681131505234" duration="1756000" />
+      <workItem from="1681209334454" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="Lifecyle class section completed">
       <created>1680250702529</created>

@@ -16,6 +16,8 @@ import 'font-awesome/css/font-awesome.min.css';
 import FormikBasics from "./components/FormikBasics";
 import Memoization from "./components/Memoization";
 import ContextSample from "./components/ContextSample";
+import Counter from "./components/Counter";
+import ReactIntl from "./components/ReactIntl";
 
 
 /* --- JSX - Basic Rules --- */
@@ -245,10 +247,19 @@ import ContextSample from "./components/ContextSample";
 // }
 
 /* --- React Intl --- */
+// function App() {
+//     return(
+//         <div className={"App"}>
+//             <ReactIntl />
+//         </div>
+//     );
+// }
+
+/* --- Unit Tests --- */
 function App() {
     return(
         <div className={"App"}>
-
+            <Counter />
         </div>
     );
 }
