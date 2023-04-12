@@ -1,6 +1,4 @@
 import {useWeather} from "../context/WeatherContext";
-
-
 function Dropdown() {
     const { city, setCity, citiesJSON } = useWeather();
 

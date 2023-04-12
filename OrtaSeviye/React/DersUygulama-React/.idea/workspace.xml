@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331a4ba8-b18d-4947-ac95-e321a8d8142d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../homework-testing/.idea/homework-testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/EmojiResult/EmojiResult.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/EmojiResult/EmojiResultRow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/EmojiResult/EmojiResultRow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/EmojiResult/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/Header/Header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/Header/Header.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/SearchInput/SearchInput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/SearchInput/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/filterEmoji/emojiList.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/filterEmoji/filterEmoji.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../homework-testing/src/components/filterEmoji/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-react/src/components/Deploy/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-react/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/hello-react/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/melih.dural/Documents/personalPortfolio/FrontEndPatikasi/OrtaSeviye/React/homework3",
+    "last_opened_file_path": "C:/Users/melih.dural/Documents/personalPortfolio/FrontEndPatikasi/OrtaSeviye/React/homework2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -159,6 +149,7 @@
       <workItem from="1681131505234" duration="1756000" />
       <workItem from="1681209334454" duration="5046000" />
       <workItem from="1681215200762" duration="4322000" />
+      <workItem from="1681295707924" duration="3769000" />
     </task>
     <task id="LOCAL-00001" summary="Lifecyle class section completed">
       <created>1680250702529</created>

@@ -1,6 +1,7 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.min.css';
+import Deploy from "./components/Deploy";
 
 
 // import Hooks from "./components/Hooks";
@@ -13,12 +14,12 @@ import 'font-awesome/css/font-awesome.min.css';
 // import Counter from "./components/Counter"
 // import Input from "./components/InputExample"
 // import ReactRouterDom from "./components/ReactRouterDom";
-import FormikBasics from "./components/FormikBasics";
-import Memoization from "./components/Memoization";
-import ContextSample from "./components/ContextSample";
-import Counter from "./components/Counter";
-import ReactIntl from "./components/ReactIntl";
-import Todo from "./components/Todo";
+// import FormikBasics from "./components/FormikBasics";
+// import Memoization from "./components/Memoization";
+// import ContextSample from "./components/ContextSample";
+// import Counter from "./components/Counter";
+// import ReactIntl from "./components/ReactIntl";
+// import Todo from "./components/Todo";
 
 
 /* --- JSX - Basic Rules --- */
@@ -257,12 +258,21 @@ import Todo from "./components/Todo";
 // }
 
 /* --- Unit Tests --- */
+// function App() {
+//     return(
+//         <div className={"app"}>
+//             {/*<Counter />*/}
+//             <Todo />
+//         </div>
+//     );
+// }
+
+/* --- Deploy --- */
 function App() {
     return(
-        <div className={"app"}>
-            {/*<Counter />*/}
-            <Todo />
+        <div>
+            <Deploy />
         </div>
-    );
+    )
 }
 export default App;
